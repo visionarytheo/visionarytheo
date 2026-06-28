@@ -1,177 +1,85 @@
 <p align="center">
-  <img src="https://vercel.app" alt="Hirad Emamialagha profile header" />
+  <img src="https://vercel.app" alt="Tshepo Theodore Khumako Profile Header" />
 </p>
 
-<!-- Title -->
 <h3 align="center">
-    <samp>
-        &gt; Hey There!, I am
-        <b><a target="_blank" href="https://teetee.co.za">Tshepo Theodore Khumako</a></b>
-    </samp>
+  <samp>
+    &gt; Full-Stack Software Engineer from South Africa 🇿🇦
+  </samp>
 </h3>
 
-<br>
-
 <p align="center">
-<samp>
-「 Lead ML Engineer building scalable AI systems, MLOps platforms, and distributed ML infrastructure 」  
-</samp>
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Lead+Machine+Learning+Engineer;Designing+Scalable+ML+Platforms;Building+ML+Infrastructure;Distributed+Systems+%7C+MLOps+%7C+Production+AI"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-<img src="https://giphy.com" width="450" alt="Animated machine learning visual">
-</p>
-
-[![divider_arc_reactor](https://githubusercontent.com)](https://github.com)
-
-<!-- Title -->
-<p align="center">
-  <img src="./docs/img/system_access_title.svg" width="100%" alt="System access section title" />
-</p>
-
-<p align="center">
-
-<a href="https://teetee.co.za">
-  <img width="82%" src="./docs/img/system/portal_main.svg" alt="Hirad System portal" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.compayslips.org.za.git">
-  <img width="32%" src="./docs/img/system/neural_lab.svg" alt="Neural Lab" />
-</a>
-<a href="https://teetee.co.za">
-  <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Molecule Lab" />
-</a>
-<a href="https://teetee.co.za">
-  <img width="32%" src="./docs/img/system/model_forge.svg" alt="Model Forge" />
-</a>
-
-</p>
-
-
-[![divider_moving_neon_gradient](https://githubusercontent.com)](https://github.com)
-
-<p align="center">
-  <img src="./docs/img/hirad_core.svg" width="100%" alt="System core panel" />
-</p>
-
-
-[![divider_moving_neon_gradient](https://githubusercontent.com)](https://github.com)
-
-
-# 🛠 Technologies, Projects, and Domains
-
-<table border="0" cellspacing="10" cellpadding="0">
-<tr>
-
-<!-- LEFT: TOOLS -->
-<td width="420" valign="top" align="center">
-
-<h3>🛠 Technologies</h3>
-<br>
-
-<table align="center" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" height="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" height="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
-    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
-    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
-    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
-    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
-    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
-    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
-    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
-  </tr>
-</table>
-
-</td>
-
-<!-- PROJECTS -->
-<td width="260" valign="top" align="center">
-
-<h3>🧪 Projects</h3>
-<br>
-
-<div style="width:220px;">
-  <a href="https://github.compayslips.org.za.git">
-    <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
+  <a href="https://github.com">
+    <img src="https://komarev.com" alt="Profile Views" />
   </a>
-</div>
+</p>
 
-</td>
+---
 
-<!-- AI DOMAINS -->
-<td width="260" valign="top" align="center">
+### 🚀 Current Initiatives
 
-<h3>🧠 AI Domains</h3>
-<br>
+- 🔭 **Current Project:** Architecting security layer updates for the [Visionarytheo Payslips Platform](https://github.com/visionarytheopayslips.org.za.git)
+- 🌱 **Learning Focus:** Lower-level optimizations and real-time execution trees inside **C++**
+- 👨‍💻 **Live Portfolios:** Exploring interactive system components on [teetee.co.za](https://teetee.co.za)
+- 📄 **Technical Experience:** Read my professional development background via [resume.teetee.co.za](https://teetee.co.za)
+- 📫 **Direct Pipeline:** Reach me directly for architecture inquiries at **visionarytheo@gmail.com**
 
-<div style="width:220px;">
-    <a href="resume.teetee.co.za">
-        <img src="docs/img/ai_domains.svg" width="220" alt="AI domains navigation panel">
-    </a>
-</div>
+---
 
-</td>
+### 🛠️ Automated Tech Stack Grid
 
-</tr>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Languages and Core Frameworks -->
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Core Frameworks</h4>
+      <p>
+        <img src="https://shields.io" alt="JavaScript" />
+        <img src="https://shields.io" alt="TypeScript" />
+        <img src="https://shields.io" alt="Python" />
+        <img src="https://shields.io" alt="Java" />
+        <img src="https://shields.io++
+-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      </p>
+      <p>
+        <img src="https://shields.io" alt="React" />
+        <img src="https://shields.io" alt="Next.js" />
+        <img src="https://shields.io" alt="Django" />
+        <img src="https://shields.io" alt="Spring Boot" />
+      </p>
+    </td>
+    <!-- Architecture & Cloud Engineering -->
+    <td width="50%" valign="top">
+      <h4>☁️ Infrastructure & Databases</h4>
+      <p>
+        <img src="https://shields.io" alt="AWS" />
+        <img src="https://shields.io" alt="Docker" />
+        <img src="https://shields.io" alt="Linux" />
+        <img src="https://shields.io" alt="Nginx" />
+      </p>
+      <p>
+        <img src="https://shields.io" alt="PostgreSQL" />
+        <img src="https://shields.io" alt="MySQL" />
+        <img src="https://shields.io" alt="MongoDB" />
+        <img src="https://shields.io" alt="SQLite" />
+      </p>
+    </td>
+  </tr>
 </table>
 
-[![divider_moving_neon_gradient](https://githubusercontent.com)](https://github.com)
+---
 
-### 📊 Vital Statistics
-
+### 📊 Real-Time Git Performance Analytics
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Streak" />
+  <img src="https://vercel.app" width="48%" alt="GitHub Stats" />
+  <img src="https://vercel.app" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub profile contribution summary" />
-</p>    
-
-<p align="center">
-  <img src="https://komarev.com" alt="Views" />
+  <img src="https://demolab.com" width="97%" alt="Commit Streak Stats" />
 </p>
-
-<p align="center">
-  <img src="https://shields.io" alt="Views" />
-</p>
-
-[![divider_twin_serpant](https://githubusercontent.com)](https://github.com)
-
-<table width="100%">
