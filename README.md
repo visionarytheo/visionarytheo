@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hirad%20Emamialagha&fontSize=70&animation=twinkling" alt="Hirad Emamialagha profile header" />
+  <img src="https://vercel.app" alt="Tshepo Theodore Khumako profile header" />
 </p>
 
 <!-- Title -->
 <h3 align="center">
     <samp>
         &gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/hirad-alagha/">Hirad Emamialagha</a></b>
+        <b><a target="_blank" href="https://teetee.co.za">Tshepo Theodore Khumako</a></b>
     </samp>
 </h3>
 
@@ -14,22 +14,22 @@
 
 <p align="center">
 <samp>
-「 Lead ML Engineer building scalable AI systems, MLOps platforms, and distributed ML infrastructure 」  
+「 Fullstack developer building web applications and production systems 」  
 </samp>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Lead+Machine+Learning+Engineer;Designing+Scalable+ML+Platforms;Building+ML+Infrastructure;Distributed+Systems+%7C+MLOps+%7C+Production+AI"
+    src="https://herokuapp.com"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated machine learning visual">
+<img src="https://giphy.com" width="450" alt="Animated machine learning visual">
 </p>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com)
 
 <!-- Title -->
 <p align="center">
@@ -38,7 +38,7 @@
 
 <p align="center">
 
-<a href="https://hirademami.github.io/">
+<a href="https://teetee.co.za">
   <img width="82%" src="./docs/img/system/portal_main.svg" alt="Hirad System portal" />
 </a>
 
@@ -46,27 +46,27 @@
 
 <p align="center">
 
-<a href="https://hirademami.github.io/neural-lab/index.html">
+<a href="https://github.compayslips.org.za.git">
   <img width="32%" src="./docs/img/system/neural_lab.svg" alt="Neural Lab" />
 </a>
-<a href="https://hirademami.github.io/molecules/index.html">
+<a href="https://teetee.co.za">
   <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Molecule Lab" />
 </a>
-<a href="https://hirademami.github.io/model-forge/index.html">
+<a href="https://teetee.co.za">
   <img width="32%" src="./docs/img/system/model_forge.svg" alt="Model Forge" />
 </a>
 
 </p>
 
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com)
 
 <p align="center">
   <img src="./docs/img/hirad_core.svg" width="100%" alt="System core panel" />
 </p>
 
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com)
 
 
 # 🛠 Technologies, Projects, and Domains
@@ -127,7 +127,7 @@
 <br>
 
 <div style="width:220px;">
-  <a href="docs/PROJECTS.md">
+  <a href="https://github.compayslips.org.za.git">
     <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
   </a>
 </div>
@@ -141,7 +141,7 @@
 <br>
 
 <div style="width:220px;">
-    <a href="docs/AI_DOMAIN.md">
+    <a href="resume.teetee.co.za">
         <img src="docs/img/ai_domains.svg" width="220" alt="AI domains navigation panel">
     </a>
 </div>
@@ -151,105 +151,27 @@
 </tr>
 </table>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com)
 
 ### 📊 Vital Statistics
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiradEmami&theme=radical" alt="Streak" />
+  <img src="https://herokuapp.com" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiradEmami&theme=radical" alt="GitHub profile contribution summary" />
+  <img src="https://vercel.app" alt="GitHub profile contribution summary" />
 </p>    
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HiradEmami&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://komarev.com" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
+  <img src="https://shields.io" alt="Views" />
 </p>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com)
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-<tr>
-
-<!-- LEFT: COLLAB -->
-<td width="33%" valign="top">
-
-<h2>🤝 Collaboration</h2>
-
-I’m open to collaborating on:
-
-<ul>
-  <li>ML infrastructure projects</li>
-  <li>Reinforcement learning systems</li>
-  <li>Robotics & autonomous systems</li>
-  <li>Large-scale AI platforms</li>
-</ul>
-
-</td>
-
-<!-- MIDDLE: PANEL -->
-<td width="34%" align="center" valign="middle">
-    <a href="docs/COLLAB.md">
-        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
-    </a>
-</td>
-
-<!-- RIGHT: CONTACT -->
-<td width="33%" valign="top" align="center">
-
-<h2>📫 Contact</h2>
-
-<br>
-
-<a href="https://hirademami.github.io/">
-  <img src="https://img.shields.io/badge/Personal%20Website-hirademami.github.io-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
-</a>
-<br><br>
-
-<a href="mailto:hirad.alagha@outlook.com">
-  <img src="https://img.shields.io/badge/email-hirad.alagha@outlook.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
-</a>
-<br><br>
-
-<a href="https://www.linkedin.com/in/hirad-alagha/">
-  <img src="https://img.shields.io/badge/linkedin-hirad--alagha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
-
-<p align="center">
-⚡ Building scalable AI systems and machine learning infrastructure
-</p>
-<p align="center">
-Star ⭐ the repos if they helped you!
-</p>
-
-<p align="center">
-  <a href="./CODE_OF_CONDUCT.md">Code of Conduct</a> ·
-  <a href="./CONTRIBUTING.md">Collaboration</a> ·
-  <a href="./SECURITY.md">Security</a>
-</p>
-
-
-
-<p align="center">
-    <a href="docs/hidden/easter_egg.md">
-        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
-    </a>
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
-</p>
+<table width="100%">
