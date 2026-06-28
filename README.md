@@ -3,7 +3,7 @@
 # Tshepo Theodore Khumako
 ### 🚀 Full-Stack Software Engineer
 
-[![Website](https://shields.io)](https://teetee.co.za)
+[![Website](https://images.shields.io)](https://teetee.co.za)
 [![Resume](https://shields.io)](https://teetee.co.za)
 [![Email](https://shields.io)](mailto:visionarytheo@gmail.com)
 
