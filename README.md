@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vercel.app" alt="Tshepo Theodore Khumako profile header" />
+  <img src="https://vercel.app" alt="Hirad Emamialagha profile header" />
 </p>
 
 <!-- Title -->
@@ -14,13 +14,13 @@
 
 <p align="center">
 <samp>
-「 Fullstack developer building web applications and production systems 」  
+「 Lead ML Engineer building scalable AI systems, MLOps platforms, and distributed ML infrastructure 」  
 </samp>
 </p>
 
 <p align="center">
   <img
-    src="https://herokuapp.com"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Lead+Machine+Learning+Engineer;Designing+Scalable+ML+Platforms;Building+ML+Infrastructure;Distributed+Systems+%7C+MLOps+%7C+Production+AI"
     alt="Typing SVG"
   />
 </p>
@@ -29,7 +29,7 @@
 <img src="https://giphy.com" width="450" alt="Animated machine learning visual">
 </p>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com)
+[![divider_arc_reactor](https://githubusercontent.com)](https://github.com)
 
 <!-- Title -->
 <p align="center">
@@ -59,14 +59,14 @@
 </p>
 
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com)
+[![divider_moving_neon_gradient](https://githubusercontent.com)](https://github.com)
 
 <p align="center">
   <img src="./docs/img/hirad_core.svg" width="100%" alt="System core panel" />
 </p>
 
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com)
+[![divider_moving_neon_gradient](https://githubusercontent.com)](https://github.com)
 
 
 # 🛠 Technologies, Projects, and Domains
@@ -82,39 +82,39 @@
 
 <table align="center" cellspacing="0" cellpadding="6">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" height="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" height="32"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
+    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
+    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
+    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
+    <td align="center"><img src="https://githubusercontent.com" width="32"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32"/></td>
+    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
+    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
+    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
+    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
+    <td align="center"><img src="https://jsdelivr.net" width="32"/></td>
   </tr>
 </table>
 
@@ -151,7 +151,7 @@
 </tr>
 </table>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com)
+[![divider_moving_neon_gradient](https://githubusercontent.com)](https://github.com)
 
 ### 📊 Vital Statistics
 
@@ -172,6 +172,6 @@
   <img src="https://shields.io" alt="Views" />
 </p>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com)
+[![divider_twin_serpant](https://githubusercontent.com)](https://github.com)
 
 <table width="100%">
