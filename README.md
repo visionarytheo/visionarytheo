@@ -13,7 +13,7 @@
 
 ### 💻 Current Objectives
 
-* **Architecture:** Building robust transaction and invoice systems for the [Visionarytheo Payslips Platform](https://github.com).
+* **Architecture:** Building robust transaction and invoice systems for the [Propflow - Property Mangement System](https://github.com/visionatheoindustries/propflow).
 * **System Programming:** Deep-diving into high-performance, low-level compilation structures using **C++**.
 * **Core Expertise:** Designing, scaling, and maintaining enterprise applications across distributed microservices.
 
